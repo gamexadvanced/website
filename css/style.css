@@ -5,7 +5,7 @@
     padding: 0;
 }
 header{
-    background-color: rgb(17 48 86);
+    background-color: rgb(0 17 36);
     
 }
 header nav ul a{
@@ -24,5 +24,5 @@ header nav ul a img{
 }
 footer{
     color: white;
-    background-color: rgb(17 48 86);
+    background-color: rgb(0 17 36);
 }
