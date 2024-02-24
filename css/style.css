@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(17 48 86);
+    
+}
+header nav ul a{
+    padding: 1vh 4vh;
+    color: #dcd5af;
+    text-decoration: none;
+    font-family: "Anta", sans-serif;
+    font-weight: 500;
+    font-size: 2.8vh;
+}
+header nav ul a:hover{
+    color: white;
+}
+header nav ul a img{
+    width: 8vh;
+}
+footer{
+    color: white;
+    background-color: rgb(17 48 86);
+}
